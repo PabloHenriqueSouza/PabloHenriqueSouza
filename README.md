@@ -11,7 +11,7 @@ No cenário dinâmico da tecnologia, encaro desafios como oportunidades de cresc
 <div>
    <a href="https://github.com/PabloHenriqueSouza">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloHenriqueSouza&show_icons=true&theme=codeSTACKr"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenriqueSouza&layout=compact&langs_count=16&theme=codeSTACKr"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenriqueSouza&layout=compact&langs_count=16&theme=codeSTACKr"/>
  </div>
 
 <div>
