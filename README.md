@@ -9,6 +9,7 @@ Compreendo a importância do desenvolvimento de habilidades interpessoais no mun
 No cenário dinâmico da tecnologia, encaro desafios como oportunidades de crescimento. Meu entusiasmo e determinação são impulsionadores para contribuir significativamente com o avanço da sociedade por meio da tecnologia da informação.
 
    (https://github-readme-stats.vercel.app/api?username=PabloHenriqueSouza)](https://github.com/PabloHenriqueSouza/github-readme-stats)
+   (https://github-readme-stats.vercel.app/api?username=PabloHenriqueSouzaa&count_private=true)
 
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pablo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
