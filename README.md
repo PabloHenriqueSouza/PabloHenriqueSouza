@@ -10,7 +10,7 @@ No cenário dinâmico da tecnologia, encaro desafios como oportunidades de cresc
 
    ![Pablo Henrique de Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloHenriqueSouza&show_icons=true&theme=codeSTACKr )
 
-<div
+<div>
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pablo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,6 +19,8 @@ No cenário dinâmico da tecnologia, encaro desafios como oportunidades de cresc
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+##
 
 <div> 
   <a href="https://www.youtube.com/channel/UCL8VvjXEE1YjA2gtXcAX0sg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=orange" target="_blank"></a>
