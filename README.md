@@ -9,7 +9,7 @@ Compreendo a importância do desenvolvimento de habilidades interpessoais no mun
 No cenário dinâmico da tecnologia, encaro desafios como oportunidades de crescimento. Meu entusiasmo e determinação são impulsionadores para contribuir significativamente com o avanço da sociedade por meio da tecnologia da informação.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloHenriqueSouza&theme=ambient_gradient&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenriqueSouza&theme=ambient_gradientshow)](https://github.com/PabloHenriqueSouza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenriqueSouza&theme=ambient_gradient)](https://github.com/PabloHenriqueSouza/github-readme-stats)
 
 
 
