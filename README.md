@@ -1,5 +1,7 @@
 ## Olá eu sou o Pablo Henrique de Souza, estudante de tecnologia de informação e grande amante da tecnologia e estou em constante evolução dos meus cases.
-![Pablo Souza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ambient_gradient&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloHenriqueSouza&theme=ambient_gradient&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenriqueSouza&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <div style="display: inline_block"><br>
