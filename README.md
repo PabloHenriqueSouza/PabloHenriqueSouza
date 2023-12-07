@@ -37,4 +37,4 @@ No cenário dinâmico da tecnologia, encaro desafios como oportunidades de cresc
   
 </div>
 
-![Snake animation](https://github.com/PabloHenriqueSouza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PabloHenriqueSouza/PabloHenriqueSouza/blob/output/github-contribution-grid-snake.svg)
