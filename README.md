@@ -8,12 +8,13 @@ Compreendo a importância do desenvolvimento de habilidades interpessoais no mun
 
 No cenário dinâmico da tecnologia, encaro desafios como oportunidades de crescimento. Meu entusiasmo e determinação são impulsionadores para contribuir significativamente com o avanço da sociedade por meio da tecnologia da informação.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloHenriqueSouza&theme=codeSTACKr&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenriqueSouza&theme=codeSTACKr)](https://github.com/PabloHenriqueSouza/github-readme-stats)
+ <div align="center">
+    <a href="https://github.com/PabloHenriqueSouza">
+ <img height="165em" (https://github-readme-stats.vercel.app/api?username=PabloHenriqueSouza&theme=codeSTACKr&show_icons=true)
+ <img height="165em" (https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenriqueSouza&theme=codeSTACKr)](https://github.com/PabloHenriqueSouza/github-readme-stats)
+ </div>
 
-
-
-<div style="display: inline_block"><br>
+      
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pablo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
