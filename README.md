@@ -7,7 +7,10 @@ Minha jornada acadêmica é marcada pela curiosidade incessante e pela busca por
 Compreendo a importância do desenvolvimento de habilidades interpessoais no mundo profissional. Assim, busco constantemente aprimorar minha comunicação, trabalho em equipe e habilidades de liderança.
 
 No cenário dinâmico da tecnologia, encaro desafios como oportunidades de crescimento. Meu entusiasmo e determinação são impulsionadores para contribuir significativamente com o avanço da sociedade por meio da tecnologia da informação.
+
 <br>
+
+
 <div align="center">
 <a href="https://github.com/PabloHenriqueSouza">
    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PabloHenriqueSouza&show_icons=true&theme=codeSTACKr "/>
