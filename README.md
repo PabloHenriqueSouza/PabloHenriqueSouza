@@ -1,4 +1,13 @@
-## Olá eu sou o Pablo Henrique de Souza, estudante de tecnologia de informação e grande amante da tecnologia e estou em constante evolução dos meus cases.
+## Olá eu sou o Pablo!
+
+Dedico-me à área de Tecnologia da Informação, onde minha paixão pelo universo tecnológico impulsiona minha busca constante por conhecimento e aprimoramento. Atualmente matriculado no curso de Tecnologia da Informação na Fatec, vislumbro um futuro promissor nessa área.
+
+Minha jornada acadêmica é marcada pela curiosidade incessante e pela busca por soluções inovadoras para os desafios tecnológicos contemporâneos. Além das salas de aula, minhas habilidades se estendem a projetos práticos e experiências extracurriculares. Ativamente participo de eventos, workshops e grupos de estudo, trocando conhecimentos com profissionais renomados.
+
+Compreendo a importância do desenvolvimento de habilidades interpessoais no mundo profissional. Assim, busco constantemente aprimorar minha comunicação, trabalho em equipe e habilidades de liderança.
+
+No cenário dinâmico da tecnologia, encaro desafios como oportunidades de crescimento. Meu entusiasmo e determinação são impulsionadores para contribuir significativamente com o avanço da sociedade por meio da tecnologia da informação.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloHenriqueSouza&theme=ambient_gradient&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenriqueSouza&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
