@@ -1,4 +1,4 @@
-## Olá eu sou o Pablo!
+## Olá, eu sou o Pablo!
 
 Dedico-me à área de Tecnologia da Informação, onde minha paixão pelo universo tecnológico impulsiona minha busca constante por conhecimento e aprimoramento. Atualmente matriculado no curso de Tecnologia da Informação na Univesp, vislumbro um futuro promissor nessa área.
 
