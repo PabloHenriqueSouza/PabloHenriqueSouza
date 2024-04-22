@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pablo!
 
-Dedico-me à área de Tecnologia da Informação, onde minha paixão pelo universo tecnológico impulsiona minha busca constante por conhecimento e aprimoramento. Atualmente matriculado no curso de Tecnologia da Informação na Univesp, vislumbro um futuro promissor nessa área.
+Dedico-me à área de Tecnologia da Informação, onde minha paixão pelo universo tecnológico impulsiona minha busca constante por conhecimento e aprimoramento. Atualmente estou matriculado no curso de Tecnologia da Informação na Univesp, vislumbro um futuro promissor nessa área.
 
 Minha jornada acadêmica é marcada pela curiosidade incessante e pela busca por soluções inovadoras para os desafios tecnológicos contemporâneos. Além das salas de aula, minhas habilidades se estendem a projetos práticos e experiências extracurriculares. Ativamente participo de eventos, workshops e grupos de estudo, trocando conhecimentos com profissionais renomados.
 
